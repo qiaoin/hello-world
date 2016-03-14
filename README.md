@@ -17,6 +17,8 @@ I like to find something new and meaningful in my daily life and try to do somet
 
 ![](./beijing-1.png)
 
+这个还可以划分出一个刚小的任务，就是先写一个简单的爬虫程序，得到浏览器可能的智能提示，这个我之前写过，但基本忘了，可以再琢磨琢磨。
+
 * 快速字符串匹配
 
 这个应该是女票经常给我说的一个问题，去年年末我俩都换了 6S，她总是给我抱怨 iPhone 没有小米好用，其中的一个原因就是：
